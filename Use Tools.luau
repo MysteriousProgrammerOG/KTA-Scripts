@@ -1,9 +1,3 @@
--- ============================================================================
--- CIPHER // USE TOOLS & COMBAT ENGINE V7.1 (COSMIC ETERNAL RESCRIPT)
--- High-Performance Multi-Tool Auto-Equipper, Rapid Activator & Proximity Assist
--- Lag-Free Architecture: Zero Network Backlog // Safe Remote Throttling
--- ============================================================================
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
