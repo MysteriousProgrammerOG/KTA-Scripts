@@ -1,9 +1,3 @@
--- ============================================================================
--- CIPHER // AGGRESSIVE LOOPBRING V6.0 (COSMIC ETERNAL RESCRIPT)
--- High-Performance Target Teleporter with Anti-Rubberband Physics & Cosmic UI
--- Mobile Scaled // Cosmic Liquid Border Flow // Black & Purple Theme
--- ============================================================================
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
